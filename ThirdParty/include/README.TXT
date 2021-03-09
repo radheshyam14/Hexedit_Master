@@ -1,4 +1,4 @@
-This ..\ThirdParty\include sub-directory contains header files used to 
+This ..\ThirdParty\include sub-directory contains header files used in 
 interface to external libraries. These files are not part of HexEdit.
 
 Note that NOT all Boost headers are included - only those needed to build HexEdit.
