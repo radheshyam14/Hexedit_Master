@@ -1,5 +1,4 @@
-This ThirdParty\lib sub-directory contains libraries that are used to build 
-HexEdit and for which no source code is included.
+This ThirdParty\lib sub-directory contains libraries that are used to build Hexedit and for which no source code is included.
 
 These libs are linked into HexEdit.exe and should work irrespective of which
 version of VC++ (Visual Studio) is used to build HexEdit.
